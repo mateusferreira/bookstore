@@ -1,0 +1,81 @@
+*{
+    font-family:fantasy;
+    color: white;
+}
+h2{
+    color:red;
+}
+
+#mestra{
+    width:100%;
+    height:100%;
+    margin:left;
+    background-color: black;
+    
+}
+
+#description{    
+    float:left;
+    margin-left: 500px;
+    margin-top: 100px;
+    widht:300px;
+    height:300px;
+    background-color: black;
+    
+  
+}
+
+#imagem{
+    float:left;
+    margin auto 0;
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+}
+
+.adicionar{
+    text-align: right;
+}
+.c1{
+    float:righ;
+    margin-left:80%;
+}
+
+.imgSize{
+    width:200px;
+    height: 300px;
+}
+
+.campos{
+    margin: 10px 0;
+    
+}
+.campos > label{
+    display: block;
+    
+}
+
+.titleTable{
+    background-color:darkgreen;
+}
+
+table{
+    border-collapse: collapse;
+    border: 3px solid rgb(100,150,200);
+}
+
+tr:hover{
+    background-color: aqua;
+}
+
+table td{
+    padding: 10px;
+    border: 2px solid rgb(50,100,200);
+}
+
+.botao{
+    border: none;
+    background-color: gray;
+    padding: 10px 20px;
+    text-align: center;
+}
